@@ -21,7 +21,7 @@
 
 Execute below commands in CloudShell
 
-- `git clone [https://github.com/DHRUVOPS360/gcp-monitoring-project.git](https://github.com/DHRUVOPS360/gcp-monitoring-project.git)`
+- `git clone https://github.com/DHRUVOPS360/gcp-monitoring-project.git`
 - `cd gcp-monitoring-tutorial/iac/`
 - `terraform init`
 - `terraform apply --auto-approve`
